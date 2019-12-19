@@ -68,7 +68,7 @@
 	\item Para desvincular se utiliza \textcolor{green}{git remote remove origin}
 	\item Para sincronizar se utiliza \textcolor{green}{git push origin + la rama a pasar}
 	\item Para hacer una prueba con las ramas en GitHub
-	
+	\end{itemize}
 	
 	\subsection{Issues, Milestones y Labels}
 	
@@ -77,7 +77,39 @@
 		\item Los \textcolor{red}{Milestones} son grupos de Issues que se aplican para un proyecto, característica o periodo de tiempo
 		\item Los \textcolor{red}{Labels} son etiquetas para los Issues
 	\end{itemize}
+
 	
+	\section{Video 6: Tags}
+	
+	\begin{itemize}
+		\item Los \textcolor{blue}{Tags} son etiquetas para identificar la versión del archivo o historia en nuestro proyecto
+		\item Para modificar el nombre de un commit se utiliza el comando \textcolor{red}{git commit $-amend -m ``nuevo/ nombre"$}
+		\item El comando \textcolor{red}{git push origin master -f} obliga a GitHub a tomar las modificaciones en los commit
+		\subsection{Tags}
+		\item Las \textcolor{blue}{Tags anotadas} son almacenadas como objetos completos dentro de la base de Git y contienen más información con el comando \textcolor{blue}{git tag -a -m$``"$}
+		\item Las \textcolor{red}{Tags Ligeras} contienen menos información
+		\item Para agregar Tags a commits dentro del proyecto se utiliza el comando \textcolor{blue}{git tag -a v0.7 -m "Version 0.7" $+$ el código SHA}
+		\item Para compartir las tags en GitHub se utiliza el comando \textcolor{blue}{git push origin $+$ el nombre del tag}
+		\item Para agregar todos los tags de golpe se utiliza el comando \textcolor{blue}{git push origin --tags}
 	\end{itemize}
+
+	\section{Video 7: WorkFlows}
+	
+		\begin{itemize}
+		\item Crear organizaciones para el trabajo en equipo
+		\item Para agregar una persona, se busca su nick o su correo y se le otorgar permisos de edición
+		\item La otra persona clona el proyecto de la misma manera
+		\item Para ver las ramas ocultar y observar la rama origin/master se utiliza el comando \textcolor{green}{git branch -a}
+		\item Para pasar los commit de Omar y de Filli se utiliza el comando \textcolor{green}{git fetch} (Ver Fig. \ref{fetch}). El flujo es el siguiente: Con el comando \textcolor{red}{fetch origin} se sube todo al origin/master y con el comando  \textcolor{red}{merge origin/master} se absorben esos cambio; una vez se tienen los cambios, se sube de nuevo al origin master con el comando push
+		\item Se debe recordar que se debe cambiar el tipo de conexión remota, del usuario del repositorio del chest al repositorio de la organización con el comando \textcolor{green}{git remote remove -v} y se verifica con el comando \textcolor{green}{git remote -v} y se pone de nuevo \textcolor{green}{git remote add origin $+$ código de la organización}
+		
+	\end{itemize}
+
+	\begin{figure}[t!]
+		\centering
+		\includegraphics[width = 100mm]{imagenes/fetch2}
+		\caption{Comando Fetch}
+		\label{fetch}
+	\end{figure}
 
 \end{document}
