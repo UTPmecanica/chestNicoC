@@ -41,6 +41,7 @@
 		\item Para ``Matar los commit" se utiliza el comando \textcolor{green}{git reset} las el código del commit, el cuál se subdivide en \textcolor{blue}{git reset --soft}, el cúal no se mete con el código, esta el \textcolor{blue}{git reset --mixed} y está el comando \textcolor{blue}{git reset --hard} que borra absolutamente todo
 		\item El comando \textcolor{green}{git log $>$ commits.txt} crea un documento de texto con cada uno de los commits
 		\item El comando \textcolor{blue}{git help} da un pequño manual para el uso de git, si se quiere ser mas específico se utiliza git help + el nombre del comando
+		
 	\end{itemize}
 
 
@@ -48,5 +49,13 @@
 	
 	Head = Actual commit
 	
-	
+	\begin{itemize}
+	\item Para crear una rama se utiliza el comando \textcolor{blue}{git branch $+$ nombre de la rama}
+	\item Para moverse entre ramas se utiliza el comando \textcolor{blue}{git checkout + el nombre de la rama}
+	\item Para absorber una rama se utiliza el comando \textcolor{blue}{git merge} para absorber todos los commits de la rama de prueba
+	\item Fast-Forward solo hace la fusion sin preguntar nada
+	\item Manual Merge los cambios tienen que pasar por nosotros
+	\item Para crear y cambia automaticamente a una nueva rama se utiliza el comando \textcolor{blue}{git checkout -b nueva rama}
+	\end{itemize}
+
 \end{document}
