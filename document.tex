@@ -7,6 +7,7 @@
 \usepackage{hyperref}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{amsmath}
 
 
 \title{Pruebas con Git}
@@ -36,8 +37,16 @@
 		\item Para agregar todo al proyecto se utliza \textcolor{blue}{git add -A}
 		\item Para agregar se utiliza el comando \textcolor{blue}{git commit -m} y un mensaje entre comillas para identificar la modificación
 		\item Para ver una lista con los comentarios se utiliza el comando \textcolor{green}{git log}
+		\item Ahora para viajar entre versiones, se crea un último commit, se utiliza el git log para copiar el código del commit y se utiliza el comando \textcolor{green}{git checkout} con el código del commit. Para ver el código en su totalidad se utiliza \textcolor{green}{git chechout master} para devolver a la versión deseada
+		\item Para ``Matar los commit" se utiliza el comando \textcolor{green}{git reset} las el código del commit, el cuál se subdivide en \textcolor{blue}{git reset --soft}, el cúal no se mete con el código, esta el \textcolor{blue}{git reset --mixed} y está el comando \textcolor{blue}{git reset --hard} que borra absolutamente todo
+		\item El comando \textcolor{green}{git log $>$ commits.txt} crea un documento de texto con cada uno de los commits
+		\item El comando \textcolor{blue}{git help} da un pequño manual para el uso de git, si se quiere ser mas específico se utiliza git help + el nombre del comando
 	\end{itemize}
 
+
+	\section{Video 4: Ramas y Funciones}
+	
+	Head = Actual commit
 	
 	
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.14)  18 DEC 2019 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.14)  18 DEC 2019 20:50
 entering extended mode
 **./document.tex
 (document.tex
@@ -464,43 +464,107 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
 ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen142
+))
+("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip17
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks20
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks21
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
 ) (document.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
 
 ("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count193
-\scratchdimen=\dimen142
-\scratchbox=\box46
-\nofMPsegments=\count194
-\nofMParguments=\count195
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count196
-\MPscratchDim=\dimen143
-\MPnumerator=\count197
-\makeMPintoPDFobject=\count198
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count271
+\scratchdimen=\dimen151
+\scratchbox=\box48
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen152
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks25
 )
 ("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty"
@@ -517,8 +581,8 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 460.
 )
-\AtBeginShipoutBox=\box47
-Package hyperref Info: Link coloring OFF on input line 16.
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 17.
 
 ("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -532,58 +596,59 @@ Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count199
+\c@section@level=\count277
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
  (document.out) (document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
 
 
 ("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
 
 ("C:\Users\nicoc\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
 [1
 
-{C:/Users/nicoc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
+{C:/Users/nicoc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
 
 (document.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 6953B75D9DA91E45B70C69258F2C5510;129.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
+(rerunfilecheck)             Checksum: 3D030CE3F4180970CF5533F06AE47DCF;190.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 17285 strings out of 492484
- 308984 string characters out of 3121600
- 467184 words of memory out of 3000000
- 21489 multiletter control sequences out of 15000+200000
- 537887 words of font info for 45 fonts, out of 3000000 for 9000
+ 17903 strings out of 492484
+ 316144 string characters out of 3121600
+ 480290 words of memory out of 3000000
+ 22087 multiletter control sequences out of 15000+200000
+ 539586 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,6n,67p,266b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,6n,67p,372b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/nicoc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb><C:/Users/nicoc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><C:/Users/nicoc/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nicoc/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on document.pdf (1 page, 52967 bytes).
+blic/amsfonts/cm/cmmi10.pfb><C:/Users/nicoc/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nicoc/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nicoc/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on document.pdf (2 pages, 65540 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 53 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 

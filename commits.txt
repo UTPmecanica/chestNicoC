@@ -1,3 +1,9 @@
+commit 41aae1c9698071ff99bf41926a0f4a6749a6dc46
+Author: nicocardona98 <nicocardona98@gmail.com>
+Date:   Wed Dec 18 20:28:46 2019 -0500
+
+    siguiendo escribiendo
+
 commit 07f84ba5a5f4e1e213dabf1f85c9001d4acdacf7
 Author: nicocardona98 <nicocardona98@gmail.com>
 Date:   Wed Dec 18 15:41:59 2019 -0500
